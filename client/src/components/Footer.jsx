@@ -68,7 +68,7 @@ export default function FooterCom() {
           />
           <div className="flex gap-6 sm:mt-0 mt-4 sm:justify-center">
             <Footer.Icon href='#' icon={BsInstagram}/>
-            <Footer.Icon href='https://github.com/Ishank-96' icon={BsGithub}/>
+            <Footer.Icon href='https://github.com/PrathamBhushan' icon={BsGithub}/>
           </div>
         </div>
       </div>
